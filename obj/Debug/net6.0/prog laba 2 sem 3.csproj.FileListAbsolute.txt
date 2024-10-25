@@ -1,0 +1,14 @@
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.AssemblyInfoInputs.cache
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.AssemblyInfo.cs
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.csproj.CoreCompileInputs.cache
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\bin\Debug\net6.0\prog laba 2 sem 3.exe
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\bin\Debug\net6.0\prog laba 2 sem 3.deps.json
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\bin\Debug\net6.0\prog laba 2 sem 3.runtimeconfig.json
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\bin\Debug\net6.0\prog laba 2 sem 3.dll
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\bin\Debug\net6.0\prog laba 2 sem 3.pdb
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.dll
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\refint\prog laba 2 sem 3.dll
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.pdb
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\prog laba 2 sem 3.genruntimeconfig.cache
+C:\Users\lisal\source\repos\prog laba 2 sem 3\prog laba 2 sem 3\obj\Debug\net6.0\ref\prog laba 2 sem 3.dll
